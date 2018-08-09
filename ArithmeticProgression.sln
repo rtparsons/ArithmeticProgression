@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticProgression", "ArithmeticProgression\ArithmeticProgression.csproj", "{C41F4BDC-B3A0-400F-AE7B-2BE09EEFFA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticProgression.Tests", "ArithmeticProgression.Tests\ArithmeticProgression.Tests.csproj", "{ADD8BF61-8D6D-432F-B62A-F19BEA6EBD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41F4BDC-B3A0-400F-AE7B-2BE09EEFFA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41F4BDC-B3A0-400F-AE7B-2BE09EEFFA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41F4BDC-B3A0-400F-AE7B-2BE09EEFFA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41F4BDC-B3A0-400F-AE7B-2BE09EEFFA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD8BF61-8D6D-432F-B62A-F19BEA6EBD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD8BF61-8D6D-432F-B62A-F19BEA6EBD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD8BF61-8D6D-432F-B62A-F19BEA6EBD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD8BF61-8D6D-432F-B62A-F19BEA6EBD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5BD145-0B34-458A-B290-1F4D7D12932F}
+	EndGlobalSection
+EndGlobal
